@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/iamtimokhin/static/css/main.9f29ac40.chunk.css",
+    "main.js": "/iamtimokhin/static/js/main.41dfc258.chunk.js",
+    "main.js.map": "/iamtimokhin/static/js/main.41dfc258.chunk.js.map",
+    "runtime-main.js": "/iamtimokhin/static/js/runtime-main.4ddc17d0.js",
+    "runtime-main.js.map": "/iamtimokhin/static/js/runtime-main.4ddc17d0.js.map",
+    "static/js/2.493db8ea.chunk.js": "/iamtimokhin/static/js/2.493db8ea.chunk.js",
+    "static/js/2.493db8ea.chunk.js.map": "/iamtimokhin/static/js/2.493db8ea.chunk.js.map",
+    "index.html": "/iamtimokhin/index.html",
+    "static/css/main.9f29ac40.chunk.css.map": "/iamtimokhin/static/css/main.9f29ac40.chunk.css.map",
+    "static/js/2.493db8ea.chunk.js.LICENSE.txt": "/iamtimokhin/static/js/2.493db8ea.chunk.js.LICENSE.txt",
+    "static/media/BEM.f5631ec7.gif": "/iamtimokhin/static/media/BEM.f5631ec7.gif",
+    "static/media/CSS.21566ba3.gif": "/iamtimokhin/static/media/CSS.21566ba3.gif",
+    "static/media/HTML.6b7eb67b.gif": "/iamtimokhin/static/media/HTML.6b7eb67b.gif",
+    "static/media/JS.12858666.gif": "/iamtimokhin/static/media/JS.12858666.gif",
+    "static/media/SCSS.eaf9a161.gif": "/iamtimokhin/static/media/SCSS.eaf9a161.gif",
+    "static/media/bootstrap.9d7fc06e.gif": "/iamtimokhin/static/media/bootstrap.9d7fc06e.gif",
+    "static/media/canva.2f0e4f7c.gif": "/iamtimokhin/static/media/canva.2f0e4f7c.gif",
+    "static/media/english.cc6e6043.gif": "/iamtimokhin/static/media/english.cc6e6043.gif",
+    "static/media/figma.e7a85da4.gif": "/iamtimokhin/static/media/figma.e7a85da4.gif",
+    "static/media/github.63d704ad.gif": "/iamtimokhin/static/media/github.63d704ad.gif",
+    "static/media/github.f1102180.png": "/iamtimokhin/static/media/github.f1102180.png",
+    "static/media/iam.90331b65.jpg": "/iamtimokhin/static/media/iam.90331b65.jpg",
+    "static/media/instagram.ac32ec0a.png": "/iamtimokhin/static/media/instagram.ac32ec0a.png",
+    "static/media/materialize.9fe1afb4.gif": "/iamtimokhin/static/media/materialize.9fe1afb4.gif",
+    "static/media/materialui.a2d88a89.gif": "/iamtimokhin/static/media/materialui.a2d88a89.gif",
+    "static/media/react js.c454f543.gif": "/iamtimokhin/static/media/react js.c454f543.gif",
+    "static/media/resume.5c430fb9.jpg": "/iamtimokhin/static/media/resume.5c430fb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ddc17d0.js",
+    "static/js/2.493db8ea.chunk.js",
+    "static/css/main.9f29ac40.chunk.css",
+    "static/js/main.41dfc258.chunk.js"
+  ]
+}
